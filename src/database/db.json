@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Classic Spring",
+    "prize": "120.00",
+    "imageUrl": "/men-01.jpg",
+    "id": 1,
+    "catogery": "men",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": "Air Force 1X",
+    "prize": "90.00",
+    "imageUrl": "/men-02.jpg",
+    "id": 2,
+    "catogery": "men",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": "Love Nana '20",
+    "prize": "150.00",
+    "imageUrl": "/men-03.jpg",
+    "id": 3,
+    "catogery": "men",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": "Classic Spring",
+    "prize": "120.00",
+    "imageUrl": "/men-02.jpg",
+    "id": 4,
+    "catogery": "men",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+
+  {
+    "title": "New Green Jacket",
+    "prize": "75.00",
+    "imageUrl": "/women-01.jpg",
+    "id": 5,
+    "catogery": "women",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": "Classic dress",
+    "prize": "54.00",
+    "imageUrl": "/women-02.jpg",
+    "id": 6,
+    "catogery": "women",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": "Spring Collection",
+    "prize": "130.00",
+    "imageUrl": "/women-03.jpg",
+    "id": 7,
+    "catogery": "women",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": "New Green Jacket",
+    "prize": "75.00",
+    "imageUrl": "/women-01.jpg",
+    "id": 8,
+    "catogery": "women",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+
+  {
+    "title": "Classic Kid",
+    "prize": "30.00",
+    "imageUrl": "/kid-03.jpg",
+    "id": 9,
+    "catogery": "kid",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": "Classic Spring",
+    "prize": "120.00",
+    "imageUrl": "/kid-02.jpg",
+    "id": 11,
+    "catogery": "kid",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": "School Collection",
+    "prize": "80.00",
+    "imageUrl": "/Kid-01.jpg",
+    "id": 12,
+    "catogery": "kid",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": "Classic Spring",
+    "prize": "90.00",
+    "imageUrl": "/Kid-01.jpg",
+    "id": 13,
+    "catogery": "Kid",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  }
+]

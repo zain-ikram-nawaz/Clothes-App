@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-5xl;
+    @apply font-bold;
+  }
+  h2 {
+    @apply text-4xl;
+    @apply font-bold;
+  }
+  h3 {
+    @apply text-3xl;
+    @apply font-bold;
+  }
+  h4 {
+    @apply text-2xl;
+    @apply font-bold;
+  }
+  h5 {
+    @apply text-xl;
+    @apply font-bold;
+  }
+  h6 {
+    @apply text-lg;
+    @apply font-semibold;
+  }
+}
+
+.nav-link li{
+margin-right: 15px;
+}
+/* .hover-effect{
+visibility: hidden;
+background-color: aqua;
+color: black;
+}
+.zain:hover{
+display: none;
+}
+.hover-effect:hover{
+  visibility: visible;
+} */
+ .hover-effect{
+  display: none;
+}
+.banner-hover:hover{
+
+  .zain{
+    display: none;
+ 
+  }
+  .hover-effect{
+    display: block;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.815);
+    width: 100%;
+    height: 35vh;
+}
+}
+.about-hover:hover{
+ .about-icon{
+  color: white;
+ }
+} 
